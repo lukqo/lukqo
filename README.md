@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I`m Lukqo</h1><p align="left">
+<h1 align="left">Hello, I´m Lukqo</h1><p align="left">
 Indie dev and animator. I build apps, games, and Roblox experiences, with a focus on getting the details right.
 
 </p>
